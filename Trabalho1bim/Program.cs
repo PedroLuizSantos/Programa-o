@@ -77,7 +77,7 @@ namespace Trabalho1bim
                         continua = false;
                         break;
                      default:
-                        Console.WriteLine("Opção Não Existente ! ");
+                        Console.WriteLine("Opção Inválida! ");
                         break;
                 }
             }while (continua);   
