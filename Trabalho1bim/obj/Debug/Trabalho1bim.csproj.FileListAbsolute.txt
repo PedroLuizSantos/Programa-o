@@ -1,0 +1,14 @@
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\bin\Debug\Trabalho1bim.exe.config
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\bin\Debug\Trabalho1bim.exe
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\bin\Debug\Trabalho1bim.pdb
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.csprojAssemblyReference.cache
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.csproj.CoreCompileInputs.cache
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.exe
+C:\Users\Clediney\Desktop\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.pdb
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.csprojAssemblyReference.cache
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.csproj.CoreCompileInputs.cache
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.exe
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\obj\Debug\Trabalho1bim.pdb
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\bin\Debug\Trabalho1bim.exe.config
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\bin\Debug\Trabalho1bim.exe
+J:\2 periodo\fundamentos programa\Trabalho 1 Bimestre\Trabalho1bim\Trabalho1bim\bin\Debug\Trabalho1bim.pdb
